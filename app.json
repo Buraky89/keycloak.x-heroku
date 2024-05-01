@@ -24,12 +24,6 @@
       "value": "change_me"
     }
   },
-  "formation": {
-    "web": {
-      "quantity": 1,
-      "size": "free"
-    }
-  },
   "addons": [
     {
       "plan": "heroku-postgresql:essential-2"
